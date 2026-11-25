@@ -9,7 +9,7 @@ Entrants write one funny line of awkward small talk a robot says to another in a
 ## Run it
 
 ```sh
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 bot/main.py
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 ---
